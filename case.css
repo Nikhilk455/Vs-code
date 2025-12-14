@@ -1,0 +1,17 @@
+.logo {
+    color: red;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.logo-red {
+    background-color: red;
+    padding: 10px 15px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.logo-red img {
+    max-width: 100px;
+    height: auto;
+}
